@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&family=Open+Sans:wght@400;500;600&display=swap');
+
+body {
+    font-family:'Open Sans';
+    font-weight: 400;
+}
+
+.barraNav {
+    font-size: 1.38rem;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.navColor {
+    background-color: #D8D9E4;
+}
+
+
+.logo {
+    font-family: 'Garamond';
+    font-weight: 600;
+    font-size: 2.5rem;
+    text-decoration: none;
+}
+
+.activa {
+    text-decoration: underline overline;
+    text-decoration-thickness: 2px;
+    line-height: 2;
+}
+
+
